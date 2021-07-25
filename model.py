@@ -174,6 +174,7 @@ class Comment(Object):
                 print('.'*40)
 
 
+
 User.load()
 Post.load()
 Comment.load()
