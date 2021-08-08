@@ -5,6 +5,7 @@
 This **social media** has the following features:
 - comment
 - follow and unfollow
+- a new item
 
 aa|bb|cc
 ---|---|---
