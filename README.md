@@ -3,7 +3,6 @@
 ---
 
 This **social media** has the following features:
-- aaaa
 - comment
 - follow and unfollow
 
